@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{359E8F38-C3E4-4E74-BEF5-D74A4AF6D22C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{622A5615-FC50-4A96-BECD-A3AADBB68CBD}"
+	ProjectSection(SolutionItems) = preProject
+		scripts\AoC-d1.fsx = scripts\AoC-d1.fsx
+		scripts\AoC-d2.fsx = scripts\AoC-d2.fsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "supplements", "supplements", "{222EE36F-20D6-4396-9FD0-6CF1F6865B83}"
+	ProjectSection(SolutionItems) = preProject
+		supplements\d1-input.txt = supplements\d1-input.txt
+		supplements\d2-input.txt = supplements\d2-input.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{622A5615-FC50-4A96-BECD-A3AADBB68CBD} = {359E8F38-C3E4-4E74-BEF5-D74A4AF6D22C}
+		{222EE36F-20D6-4396-9FD0-6CF1F6865B83} = {359E8F38-C3E4-4E74-BEF5-D74A4AF6D22C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56473B7E-8006-44F6-8427-9B3E060905C9}
+	EndGlobalSection
+EndGlobal
