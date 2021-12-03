@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{622A
 	ProjectSection(SolutionItems) = preProject
 		scripts\AoC-d1.fsx = scripts\AoC-d1.fsx
 		scripts\AoC-d2.fsx = scripts\AoC-d2.fsx
+		scripts\AoC-d3.fsx = scripts\AoC-d3.fsx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "supplements", "supplements", "{222EE36F-20D6-4396-9FD0-6CF1F6865B83}"
